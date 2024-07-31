@@ -7,6 +7,9 @@
 #### **Tools/Skills demonstrated**
 ###### Python, CSV, JSON, API, Web scraping, ETL, Power BI and Excel
 
+#### **Visual Report:**
+https://www.novypro.com/project/global-weather-overview
+
 #### **Data:**
 Data extracted on: Thu 01th February, 2024 at 09:14:18AM UTC
 ###### **Data source 1:** *https://simple.wikipedia.org/wiki/List_of_countries_by_continents*
